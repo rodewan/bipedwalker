@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="D:/Ro&apos;s Stuff/coding/oldjogljars"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/RosStuff/coding/jogl-1.1.1-windows-amd64/lib/gluegen-rt.jar" sourcepath="D:/RosStuff/coding/jogl-1.1.1-windows-amd64/lib">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="D:/RosStuff/coding/jogl-1.1.1-windows-amd64/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/RosStuff/coding/jogl-1.1.1-windows-amd64/lib/jogl.jar" sourcepath="D:/RosStuff/coding/jogl-1.1.1-windows-amd64/lib">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="D:/RosStuff/coding/jogl-1.1.1-windows-amd64/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
